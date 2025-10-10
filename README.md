@@ -34,7 +34,7 @@ Save and organize your favorite sites with a built-in bookmark manager designed 
 ## ⚠️ Current Issue
 
 🚫 **No Ad Blocking** - Ad filtering is not currently implemented  
-🚗 **Motion Restrictions** - Video playback is disabled while driving for safety  
+🚗 **Motion Restrictions**
 
 *These are known areas for improvement - contributions welcome!*
 

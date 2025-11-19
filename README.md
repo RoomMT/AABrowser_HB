@@ -62,6 +62,9 @@ This project thrives on community contributions! Whether you're fixing bugs, add
 ## Donation
 
 If you like the application, please consider making a donation:  
+
+If you donate, please let us know the amount in BTC on the discussion page and we'll add you to the project's contributor list for this document!  
+
 bitcoin: 
 `
 bc1qnpqpfq7e8pjtlqj7aa6x2y2c9ctnpts5u9lx7v

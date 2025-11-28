@@ -2,7 +2,10 @@
 
 ## The ultimate WebView browser experience for Android Auto head units
 
-Transform your driving experience with a sleek, modern browser designed specifically for the road. Built with cutting-edge Material 3 design and optimized for automotive interfaces.
+Transform your driving experience with a sleek, modern browser designed specifically for the road. Built with cutting-edge Material 3 design and optimized for automotive interfaces.　　
+
+Privacy First: There are no trackers in this app.  
+Since I don't collect any usage data or crash logs, I rely on your reports. If you find a bug, please let me know in the Issues or Discussions tab!  
 
 ---
 

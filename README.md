@@ -45,6 +45,7 @@ I care about the app's growth, but I care about your privacy even more. This app
 ## 📱 Quick Start & Safety 🚦
 
 #### 🛑 Developer's Safety Request
+
 * **Driver's Duty:** If you're the one steering, **DO NOT LOOK AT THIS APP.** If you think your eyes might wander while driving, **uninstall it right now!** Seriously, your safety is my top priority.
 * **Passenger's Joy:** This app is for your passengers or for when you are safely parked.
 * **Legal Note:** I built the code, but the **GPLv3 license** means I am **NOT RESPONSIBLE** for your actions. Drive smart!
@@ -62,14 +63,24 @@ To use this app, you must unlock the hidden Developer Settings.
 
 ---
 
+#### ❓ Troubleshooting
+
+**App not starting?**
+If the app fails to launch, try opening a non-Google Maps navigation app (such as **Waze**) first, then open AA Browser.
+
+---
+
 #### ⚠️ Current Issues
+
 - 🚫 **No Ad Blocking:** Ad filtering is not currently implemented (contributions welcome!).
 - 🚗 **Stationary Use Only**
 
 ---
 
 ## 🤝 Contributors
+
 Every contribution makes AA Browser better!
+
 - 🐛 **Found a bug?** Open an issue with reproduction steps.
 - 💡 **Got an idea?** Start a discussion.
 - 🔧 **Wanna code?** Fork the repo and submit a PR!
@@ -87,12 +98,14 @@ Every contribution makes AA Browser better!
 ---
 
 ## 💖 Special Thanks
+
 - **[jdrch](https://github.com/jdrch):** For suggesting **Obtainium**—a brilliant idea for seamless updates!
 - **[Obtainium](https://github.com/ImranR98/Obtainium):** For being an amazing bridge between devs and users.
 
 ---
 
 ## ☕ Support a Student Developer
+
 If AA Browser makes your "car life" better, please consider a donation! As a student developer on a tight budget, your support covers daily expenses.
 
 **Bitcoin (BTC):**
